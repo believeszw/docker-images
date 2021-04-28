@@ -1,0 +1,8 @@
+{
+  "server": "d2.3840x2160.work",
+  "server_port": 40084,
+  "local_port": 1080,
+  "password": "4856692407",
+  "timeout": 600,
+  "method": "aes-256-cfb"
+}
